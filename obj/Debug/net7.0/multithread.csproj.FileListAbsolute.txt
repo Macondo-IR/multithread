@@ -1,0 +1,15 @@
+C:\prj\multithread\bin\Debug\net7.0\multithread.exe
+C:\prj\multithread\bin\Debug\net7.0\multithread.deps.json
+C:\prj\multithread\bin\Debug\net7.0\multithread.runtimeconfig.json
+C:\prj\multithread\bin\Debug\net7.0\multithread.dll
+C:\prj\multithread\bin\Debug\net7.0\multithread.pdb
+C:\prj\multithread\obj\Debug\net7.0\multithread.csproj.AssemblyReference.cache
+C:\prj\multithread\obj\Debug\net7.0\multithread.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\multithread\obj\Debug\net7.0\multithread.AssemblyInfoInputs.cache
+C:\prj\multithread\obj\Debug\net7.0\multithread.AssemblyInfo.cs
+C:\prj\multithread\obj\Debug\net7.0\multithread.csproj.CoreCompileInputs.cache
+C:\prj\multithread\obj\Debug\net7.0\multithread.dll
+C:\prj\multithread\obj\Debug\net7.0\refint\multithread.dll
+C:\prj\multithread\obj\Debug\net7.0\multithread.pdb
+C:\prj\multithread\obj\Debug\net7.0\multithread.genruntimeconfig.cache
+C:\prj\multithread\obj\Debug\net7.0\ref\multithread.dll
